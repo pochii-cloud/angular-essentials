@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # ngx-quill
 Run `npm install ngx-quill` to install ngx-quill.
 You can customize the Quill editor by referring to the Quill documentation and adjusting the configuration in your component.
-`https://www.npmjs.com/package/ngx-quill`
+[ngx-quill](https://www.npmjs.com/package/ngx-quill)
