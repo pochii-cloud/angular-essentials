@@ -1,5 +1,6 @@
 # EditorProject
-
+Welcome to Editor-Project, a simple and straightforward guide on how to easily set up ngx-quill in your Angular application.
+This project aims to provide you with a quick and hassle-free way to integrate the powerful Quill text editor into your Angular projects
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
 
 ## Development server
@@ -26,3 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # ngx-quill
+Run `npm install ngx-quill` to install ngx-quill.
+You can customize the Quill editor by referring to the Quill documentation and adjusting the configuration in your component.
+`https://www.npmjs.com/package/ngx-quill`
