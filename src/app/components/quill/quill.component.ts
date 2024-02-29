@@ -18,6 +18,7 @@ ngOnInit() {
  
 };
 
+//called when submit button is called
 onsubmit(){
   console.log(this.disclosure);
 }
