@@ -9,8 +9,10 @@ import { Component, EventEmitter, Input, Output } from '@angular/core';
   styleUrl: './child.component.scss'
 })
 export class ChildComponent {
+  //array to receive data from parents FavoriteMovies
   @Input() movieList:string[] = [];
 
+  //after looping movie list in the child this emits an event that has the clicked movie
   @Output() 
   movieEventEmitter = new EventEmitter();
   selectedMovie(movie:string){
